@@ -22,8 +22,10 @@ title: 💯 Certified Human Thoughts
 email: cezar@certifiedhumanthoughts.com
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts from a human. 100% certified.
+source: https://github.com/cezarc1/cezarc1
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://certifiedhumanthoughts.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://certifiedhumanthoughts.com" 
+domain: certifiedhumanthoughts.com
 twitter_username: realcezarc
 github_username:  cezarc1
 
