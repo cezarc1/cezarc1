@@ -8,9 +8,9 @@ categories: thoughts
 
 These thoughts have been long overdue.
 
-**What are human thoughts, and with the ubiquity of certain chatbots, why have we all become so obsessed with authenticity?**
+**What are human thoughts, and with the popularity of certain chatbots, why have we all become so obsessed with authenticity?**
 
-Nowhere is this more evident than in education, a field I have become quite familiar with.
+Nowhere is this obsession more evident than in education, a field I have become quite familiar with.
 
 I spent some time working on plagiarism detection shortly after transformer-based language models were discovered but before the public release of GPT-3. Given where I was at the time, I was privy to the general buzz of transformers, BERT and all the way to public release of ChatGPT3.
 
